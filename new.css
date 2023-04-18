@@ -11,7 +11,7 @@ html{
 
 section{
     width: 100%;
-    height: 100vh;
+    height: 8vh;
 }
 
 section nav{
@@ -337,7 +337,7 @@ section .main_btn:hover i{
     transition: 0.3s;
 }
 
-/*location*/
+/*restaurant*/
 
 .restaurant{
     width: 100%;
@@ -345,7 +345,7 @@ section .main_btn:hover i{
     padding: 70px 0;
 }
 
-.restaurant .restaurant_main{
+/* .restaurant .restaurant_main{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -389,7 +389,7 @@ section .main_btn:hover i{
     position: relative;
     left: 55%;
     bottom: 30px;
-}
+} */
 
 
 
@@ -500,7 +500,7 @@ section .main_btn:hover i{
 
 
 /*Review*/
-
+/* 
 .review{
     width: 100%;
     height: 100vh;
@@ -609,13 +609,13 @@ section .main_btn:hover i{
 
 .review .review_box .review_card:hover .review_text p{
     margin-top: 5px;
-}
+} */
 
 
 
 /*Order*/
 
-.order{
+/* .order{
     width: 100%;
     height: 100vh;
     padding: 70px 0;
@@ -695,7 +695,7 @@ section .main_btn:hover i{
     margin-top: 20px;
     text-decoration: none;
 }
-
+ */
 
 
 
@@ -759,7 +759,7 @@ section .main_btn:hover i{
 
 .team .team_box .profile:hover{
     border-radius: 20px;
-    height: 320px;
+    height: 360px;
 }
 
 .team .team_box .profile img{
